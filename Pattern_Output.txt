@@ -1,0 +1,54 @@
+//input character
+enter num 5
+UP stairs pattern
+*
+**
+***
+****
+*****
+DOWN STAIRS
+******
+*****
+****
+***
+**
+AB pattern
+A
+AB
+ABC
+ABCD
+ABCDE
+A BB CCC pattern
+A
+BB
+CCC
+DDDD
+EEEEE
+PYRAMID pattern
+    *
+   ***
+  *****
+ *******
+*********
+DIAMOND PATTERN
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+even number of stars
+*
+**
+****
+******
+********
+0dd number of stars
+*
+***
+*****
+*******
+*********
